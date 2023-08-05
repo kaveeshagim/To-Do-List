@@ -1,0 +1,23 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+
+button {
+    width: 7%;
+    border: none;
+    padding: 1%;
+    border-radius: 10%;
+    margin-left: 2%;
+    color: white;
+    cursor: pointer;
+}
+
+
+#add {
+    background: #74d383;
+}
+
+.rem {
+    background: #e47e7e;
+}
